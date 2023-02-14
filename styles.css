@@ -1,0 +1,63 @@
+.index_body {
+    background-color: #FFC8C8;
+}
+
+h1 {
+    color: #3E4149;
+}
+
+.text {
+    text-decoration: none;
+    color: black;
+}
+
+.rating {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.soul_body {
+    background-color: #AAAAAA;
+}
+
+.soul_h1 {
+    color: #046582;
+}
+
+.intouchables_body {
+    background-color: #AAAAAA;
+}
+
+.intouchables_h1 {
+    color: #046582;
+}
+
+.pursuit_body {
+    background-color: #AAAAAA;
+}
+
+.pursuit_h1 {
+    color: #6639A6;
+}
+
+.btn {
+    padding: 12px;
+    border: none;
+    border-radius: 40px;
+    border-style: outset;
+    cursor: col-resize;
+    background-color: lightskyblue;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color: #FFC8C8;
+    transition-duration: 1s;
+    border-style: groove;
+}
+
+.rating_body {
+    background-color: lightsteelblue;
+}
